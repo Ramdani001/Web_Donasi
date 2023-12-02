@@ -1,0 +1,21 @@
+ @media (max-width: 556px) {
+
+    body{
+        overflow: hidden;
+    }
+
+    #content{
+        padding-top: 40px;
+    }
+
+    #content h2{
+        font-family: jejuHallasan;
+    }
+
+    #bgBottom{
+        position: absolute;
+        margin-top: 90px;
+        /* transform: translateY(42px) !important; */
+    }
+
+}
